@@ -1,6 +1,8 @@
-# Welcome to PythonExtra for ClassPad
+# PickCross
 
-This is a simple starting point for creating Python programs for the ClassPad II (fx-CP400) using **PythonExtra**, a lightweight version of MicroPython built for calculators.
+<img width="320" height="528" alt="screenshot" src="https://github.com/user-attachments/assets/a303d626-382e-4963-9573-2b97377d56e7" />
+
+A simple PickCross game for the classpad !
 
 
 ## 🐍 What is Python?
